@@ -1,9 +1,9 @@
 # site settings
-title: Forty
+title: Eisten
 subtitle: by HTML5 UP
 email: eisten.flores@unmsm.edu.pe
 description: Estudiante universitario de la carrera de Ingenieria de sistemas (Universdidad Nacional Mayor de San Marcos)
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/"
 url: https://eisten1996.github.io/
 author: Eisten Flores Sanchez
 street_address: Mz A 41 lt 14 Bocanegra
